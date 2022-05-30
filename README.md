@@ -34,8 +34,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ---
+# Dev Info
+## Source
+From Next.js Crash Course: https://www.youtube.com/watch?v=mTz0GXj8NN0
 
-# Commands
+## Commands
 - Create next-js sample site: `npx create-next-app next-app`
 - Run app: `npm run dev`
 - Export static site: `npm run build` (-> creates `out` folder)
